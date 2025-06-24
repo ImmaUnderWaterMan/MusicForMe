@@ -1,0 +1,268 @@
+C:\Users\Student\source\repos\case_4\case_4\bin\Debug\net9.0-windows\case_4.exe
+C:\Users\Student\source\repos\case_4\case_4\bin\Debug\net9.0-windows\case_4.deps.json
+C:\Users\Student\source\repos\case_4\case_4\bin\Debug\net9.0-windows\case_4.runtimeconfig.json
+C:\Users\Student\source\repos\case_4\case_4\bin\Debug\net9.0-windows\case_4.dll
+C:\Users\Student\source\repos\case_4\case_4\bin\Debug\net9.0-windows\case_4.pdb
+C:\Users\Student\source\repos\case_4\case_4\obj\Debug\net9.0-windows\case_4.Form1.resources
+C:\Users\Student\source\repos\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\case_4\case_4\obj\Debug\net9.0-windows\case_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\case_4\case_4\obj\Debug\net9.0-windows\case_4.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\case_4\case_4\obj\Debug\net9.0-windows\case_4.AssemblyInfo.cs
+C:\Users\Student\source\repos\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\case_4\case_4\obj\Debug\net9.0-windows\case_4.dll
+C:\Users\Student\source\repos\case_4\case_4\obj\Debug\net9.0-windows\refint\case_4.dll
+C:\Users\Student\source\repos\case_4\case_4\obj\Debug\net9.0-windows\case_4.pdb
+C:\Users\Student\source\repos\case_4\case_4\obj\Debug\net9.0-windows\case_4.genruntimeconfig.cache
+C:\Users\Student\source\repos\case_4\case_4\obj\Debug\net9.0-windows\ref\case_4.dll
+C:\Users\Student\source\repos\case_4\case_4\obj\Debug\net9.0-windows\case_4.Properties.Resources.resources
+E:\Кейс 4\case_4\case_4\bin\Debug\net9.0-windows\case_4.exe
+E:\Кейс 4\case_4\case_4\bin\Debug\net9.0-windows\case_4.deps.json
+E:\Кейс 4\case_4\case_4\bin\Debug\net9.0-windows\case_4.runtimeconfig.json
+E:\Кейс 4\case_4\case_4\bin\Debug\net9.0-windows\case_4.dll
+E:\Кейс 4\case_4\case_4\bin\Debug\net9.0-windows\case_4.pdb
+E:\Кейс 4\case_4\case_4\obj\Debug\net9.0-windows\case_4.Form1.resources
+E:\Кейс 4\case_4\case_4\obj\Debug\net9.0-windows\case_4.Properties.Resources.resources
+E:\Кейс 4\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.GenerateResource.cache
+E:\Кейс 4\case_4\case_4\obj\Debug\net9.0-windows\case_4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Кейс 4\case_4\case_4\obj\Debug\net9.0-windows\case_4.AssemblyInfoInputs.cache
+E:\Кейс 4\case_4\case_4\obj\Debug\net9.0-windows\case_4.AssemblyInfo.cs
+E:\Кейс 4\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.CoreCompileInputs.cache
+E:\Кейс 4\case_4\case_4\obj\Debug\net9.0-windows\case_4.dll
+E:\Кейс 4\case_4\case_4\obj\Debug\net9.0-windows\refint\case_4.dll
+E:\Кейс 4\case_4\case_4\obj\Debug\net9.0-windows\case_4.pdb
+E:\Кейс 4\case_4\case_4\obj\Debug\net9.0-windows\case_4.genruntimeconfig.cache
+E:\Кейс 4\case_4\case_4\obj\Debug\net9.0-windows\ref\case_4.dll
+E:\Кейс 4\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.AssemblyReference.cache
+E:\Кейс 4\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.Up2Date
+E:\Кейс 4\case_4\case_4\obj\Debug\net9.0-windows\case_4.Authorization.resources
+E:\Кейс 4\case_4\case_4\bin\Debug\net9.0-windows\EntityFramework.SqlServer.dll
+E:\Кейс 4\case_4\case_4\bin\Debug\net9.0-windows\EntityFramework.dll
+E:\Кейс 4\case_4\case_4\bin\Debug\net9.0-windows\System.Data.SQLite.dll
+E:\Кейс 4\case_4\case_4\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+E:\Кейс 4\case_4\case_4\bin\Debug\net9.0-windows\System.Data.SQLite.EF6.dll
+E:\Кейс 4\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Кейс 4\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+E:\Кейс 4\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+E:\Кейс 4\case_4\case_4\bin\Debug\net9.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Кейс 4\case_4\case_4\bin\Debug\net9.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Кейс 4\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Кейс 4\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Кейс 4\case_4\case_4\bin\Debug\net9.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Кейс 4\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Кейс 4\case_4\case_4\bin\Debug\net9.0-windows\MusicForMe.pdb
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.AssemblyReference.cache
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\obj\Debug\net9.0-windows\case_4.Authorization.resources
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\obj\Debug\net9.0-windows\case_4.Form1.resources
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\obj\Debug\net9.0-windows\case_4.Properties.Resources.resources
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.GenerateResource.cache
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\obj\Debug\net9.0-windows\case_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\obj\Debug\net9.0-windows\case_4.AssemblyInfoInputs.cache
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\obj\Debug\net9.0-windows\case_4.AssemblyInfo.cs
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.CoreCompileInputs.cache
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\obj\Debug\net9.0-windows\case_4.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\obj\Debug\net9.0-windows\refint\case_4.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\obj\Debug\net9.0-windows\case_4.pdb
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\bin\Debug\net9.0-windows\case_4.exe
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\bin\Debug\net9.0-windows\case_4.deps.json
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\bin\Debug\net9.0-windows\case_4.runtimeconfig.json
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\bin\Debug\net9.0-windows\case_4.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\bin\Debug\net9.0-windows\case_4.pdb
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\bin\Debug\net9.0-windows\EntityFramework.SqlServer.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\bin\Debug\net9.0-windows\EntityFramework.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\bin\Debug\net9.0-windows\System.Data.SQLite.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\bin\Debug\net9.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\bin\Debug\net9.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\bin\Debug\net9.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\bin\Debug\net9.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\bin\Debug\net9.0-windows\MusicForMe.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\bin\Debug\net9.0-windows\MusicForMe.pdb
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.Up2Date
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\obj\Debug\net9.0-windows\case_4.genruntimeconfig.cache
+C:\Users\danbr\OneDrive\Desktop\Новая папка\Возврат\case_4\case_4\obj\Debug\net9.0-windows\ref\case_4.dll
+E:\Кейс 4\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\case_4.exe
+E:\Кейс 4\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\case_4.deps.json
+E:\Кейс 4\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\case_4.runtimeconfig.json
+E:\Кейс 4\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\case_4.dll
+E:\Кейс 4\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\case_4.pdb
+E:\Кейс 4\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\EntityFramework.SqlServer.dll
+E:\Кейс 4\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\EntityFramework.dll
+E:\Кейс 4\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\System.Data.SQLite.dll
+E:\Кейс 4\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+E:\Кейс 4\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\System.Data.SQLite.EF6.dll
+E:\Кейс 4\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Кейс 4\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+E:\Кейс 4\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+E:\Кейс 4\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Кейс 4\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Кейс 4\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Кейс 4\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Кейс 4\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Кейс 4\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Кейс 4\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\MusicForMe.dll
+E:\Кейс 4\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\MusicForMe.pdb
+E:\Кейс 4\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.AssemblyReference.cache
+E:\Кейс 4\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.Authorization.resources
+E:\Кейс 4\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.Form1.resources
+E:\Кейс 4\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.Properties.Resources.resources
+E:\Кейс 4\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.GenerateResource.cache
+E:\Кейс 4\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Кейс 4\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.AssemblyInfoInputs.cache
+E:\Кейс 4\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.AssemblyInfo.cs
+E:\Кейс 4\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.CoreCompileInputs.cache
+E:\Кейс 4\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.Up2Date
+E:\Кейс 4\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.dll
+E:\Кейс 4\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\refint\case_4.dll
+E:\Кейс 4\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.pdb
+E:\Кейс 4\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.genruntimeconfig.cache
+E:\Кейс 4\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\ref\case_4.dll
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\case_4.exe
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\case_4.deps.json
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\case_4.runtimeconfig.json
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\case_4.dll
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\case_4.pdb
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\EntityFramework.SqlServer.dll
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\EntityFramework.dll
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\System.Data.SQLite.dll
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\System.Data.SQLite.EF6.dll
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\MusicForMe.dll
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\bin\Debug\net9.0-windows\MusicForMe.pdb
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.AssemblyReference.cache
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.Authorization.resources
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.Form1.resources
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.Properties.Resources.resources
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.GenerateResource.cache
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.AssemblyInfoInputs.cache
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.AssemblyInfo.cs
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.CoreCompileInputs.cache
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.Up2Date
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.dll
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\refint\case_4.dll
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.pdb
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\case_4.genruntimeconfig.cache
+E:\Кейс 4\Кейс проверка dll\Кейс 4.2\case_4\case_4\obj\Debug\net9.0-windows\ref\case_4.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\bin\Debug\net9.0-windows\case_4.exe
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\bin\Debug\net9.0-windows\case_4.deps.json
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\bin\Debug\net9.0-windows\case_4.runtimeconfig.json
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\bin\Debug\net9.0-windows\case_4.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\bin\Debug\net9.0-windows\case_4.pdb
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\bin\Debug\net9.0-windows\EntityFramework.SqlServer.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\bin\Debug\net9.0-windows\EntityFramework.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\bin\Debug\net9.0-windows\System.Data.SQLite.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\bin\Debug\net9.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\bin\Debug\net9.0-windows\MusicForMe.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\bin\Debug\net9.0-windows\MusicForMe.pdb
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.AssemblyReference.cache
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\obj\Debug\net9.0-windows\case_4.Authorization.resources
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\obj\Debug\net9.0-windows\case_4.Form1.resources
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\obj\Debug\net9.0-windows\case_4.Properties.Resources.resources
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.GenerateResource.cache
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\obj\Debug\net9.0-windows\case_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\obj\Debug\net9.0-windows\case_4.AssemblyInfoInputs.cache
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\obj\Debug\net9.0-windows\case_4.AssemblyInfo.cs
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.CoreCompileInputs.cache
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.Up2Date
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\obj\Debug\net9.0-windows\case_4.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\obj\Debug\net9.0-windows\refint\case_4.dll
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\obj\Debug\net9.0-windows\case_4.pdb
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\obj\Debug\net9.0-windows\case_4.genruntimeconfig.cache
+C:\Users\danbr\OneDrive\Desktop\Новая папка\На всяки случай 2\case_4\case_4\obj\Debug\net9.0-windows\ref\case_4.dll
+D:\Case_4-main\Case_4-main\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.AssemblyReference.cache
+D:\Case_4-main\Case_4-main\case_4\case_4\obj\Debug\net9.0-windows\case_4.Properties.Resources.resources
+D:\Case_4-main\Case_4-main\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.GenerateResource.cache
+D:\Case_4-main\Case_4-main\case_4\case_4\obj\Debug\net9.0-windows\case_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Case_4-main\Case_4-main\case_4\case_4\obj\Debug\net9.0-windows\case_4.AssemblyInfoInputs.cache
+D:\Case_4-main\Case_4-main\case_4\case_4\obj\Debug\net9.0-windows\case_4.AssemblyInfo.cs
+D:\Case_4-main\Case_4-main\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.CoreCompileInputs.cache
+D:\Case_4-main\Case_4-main\case_4\case_4\obj\Debug\net9.0-windows\case_4.dll
+D:\Case_4-main\Case_4-main\case_4\case_4\obj\Debug\net9.0-windows\refint\case_4.dll
+D:\Case_4-main\Case_4-main\case_4\case_4\obj\Debug\net9.0-windows\case_4.pdb
+D:\Case_4-main\Case_4-main\case_4\case_4\bin\Debug\net9.0-windows\case_4.exe
+D:\Case_4-main\Case_4-main\case_4\case_4\bin\Debug\net9.0-windows\case_4.deps.json
+D:\Case_4-main\Case_4-main\case_4\case_4\bin\Debug\net9.0-windows\case_4.runtimeconfig.json
+D:\Case_4-main\Case_4-main\case_4\case_4\bin\Debug\net9.0-windows\case_4.dll
+D:\Case_4-main\Case_4-main\case_4\case_4\bin\Debug\net9.0-windows\case_4.pdb
+D:\Case_4-main\Case_4-main\case_4\case_4\bin\Debug\net9.0-windows\EntityFramework.SqlServer.dll
+D:\Case_4-main\Case_4-main\case_4\case_4\bin\Debug\net9.0-windows\EntityFramework.dll
+D:\Case_4-main\Case_4-main\case_4\case_4\bin\Debug\net9.0-windows\System.Data.SQLite.dll
+D:\Case_4-main\Case_4-main\case_4\case_4\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+D:\Case_4-main\Case_4-main\case_4\case_4\bin\Debug\net9.0-windows\System.Data.SQLite.EF6.dll
+D:\Case_4-main\Case_4-main\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Case_4-main\Case_4-main\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+D:\Case_4-main\Case_4-main\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+D:\Case_4-main\Case_4-main\case_4\case_4\bin\Debug\net9.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Case_4-main\Case_4-main\case_4\case_4\bin\Debug\net9.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Case_4-main\Case_4-main\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Case_4-main\Case_4-main\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Case_4-main\Case_4-main\case_4\case_4\bin\Debug\net9.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Case_4-main\Case_4-main\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Case_4-main\Case_4-main\case_4\case_4\bin\Debug\net9.0-windows\MusicForMe.dll
+D:\Case_4-main\Case_4-main\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.Up2Date
+D:\Case_4-main\Case_4-main\case_4\case_4\obj\Debug\net9.0-windows\case_4.genruntimeconfig.cache
+D:\Case_4-main\Case_4-main\case_4\case_4\obj\Debug\net9.0-windows\ref\case_4.dll
+D:\Case_4-main\Case_4-main\case_4\case_4\obj\Debug\net9.0-windows\case_4.login.resources
+D:\Case_4-main\Case_4-main\case_4\case_4\obj\Debug\net9.0-windows\case_4.music.resources
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.AssemblyReference.cache
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\obj\Debug\net9.0-windows\case_4.login.resources
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\obj\Debug\net9.0-windows\case_4.MFM.resources
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\obj\Debug\net9.0-windows\case_4.Properties.Resources.resources
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.GenerateResource.cache
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\obj\Debug\net9.0-windows\case_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\obj\Debug\net9.0-windows\case_4.AssemblyInfoInputs.cache
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\obj\Debug\net9.0-windows\case_4.AssemblyInfo.cs
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.CoreCompileInputs.cache
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\obj\Debug\net9.0-windows\case_4.sourcelink.json
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\obj\Debug\net9.0-windows\case_4.dll
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\obj\Debug\net9.0-windows\refint\case_4.dll
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\obj\Debug\net9.0-windows\case_4.pdb
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\bin\Debug\net9.0-windows\case_4.exe
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\bin\Debug\net9.0-windows\case_4.deps.json
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\bin\Debug\net9.0-windows\case_4.runtimeconfig.json
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\bin\Debug\net9.0-windows\case_4.dll
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\bin\Debug\net9.0-windows\case_4.pdb
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\bin\Debug\net9.0-windows\EntityFramework.SqlServer.dll
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\bin\Debug\net9.0-windows\EntityFramework.dll
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\bin\Debug\net9.0-windows\System.Data.SQLite.dll
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\bin\Debug\net9.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\bin\Debug\net9.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\bin\Debug\net9.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\bin\Debug\net9.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\bin\Debug\net9.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\bin\Debug\net9.0-windows\Music.dll
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\obj\Debug\net9.0-windows\case_4.csproj.Up2Date
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\obj\Debug\net9.0-windows\case_4.genruntimeconfig.cache
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\obj\Debug\net9.0-windows\ref\case_4.dll
+C:\Users\romas\Source\Repos\case_4\case_4\case_4\obj\Debug\net9.0-windows\case_4.MusicForMeApp.resources

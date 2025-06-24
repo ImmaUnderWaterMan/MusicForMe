@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\MFM.csproj|c:\\users\\romas\\source\\repos\\case_4\\case_4\\case_4\\mfm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\MFM.csproj|solutionrelative:case_4\\mfm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|c:\\users\\romas\\source\\repos\\case_4\\case_4\\case_4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|solutionrelative:case_4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|c:\\users\\romas\\source\\repos\\case_4\\case_4\\case_4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|solutionrelative:case_4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|c:\\users\\romas\\source\\repos\\case_4\\case_4\\case_4\\classes\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|solutionrelative:case_4\\classes\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|c:\\users\\romas\\source\\repos\\case_4\\case_4\\case_4\\classes\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|solutionrelative:case_4\\classes\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\mfm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|solutionrelative:case_4\\mfm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|c:\\users\\romas\\source\\repos\\case_4\\case_4\\case_4\\mfm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|solutionrelative:case_4\\mfm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|c:\\users\\romas\\source\\repos\\case_4\\case_4\\case_4\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|solutionrelative:case_4\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|c:\\users\\romas\\source\\repos\\case_4\\case_4\\case_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|solutionrelative:case_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|solutionrelative:case_4\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|c:\\users\\romas\\source\\repos\\case_4\\case_4\\case_4\\classes\\audiometadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|solutionrelative:case_4\\classes\\audiometadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|c:\\users\\romas\\source\\repos\\case_4\\case_4\\case_4\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\case_4.csproj|solutionrelative:case_4\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\MFM.csproj|c:\\users\\romas\\source\\repos\\case_4\\case_4\\case_4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F631836-6D8D-4529-8295-4ADC4C802F61}|case_4\\MFM.csproj|solutionrelative:case_4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 52,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MFM",
+              "DocumentMoniker": "C:\\Users\\romas\\Source\\Repos\\case_4\\case_4\\case_4\\MFM.csproj",
+              "RelativeDocumentMoniker": "case_4\\MFM.csproj",
+              "ToolTip": "C:\\Users\\romas\\Source\\Repos\\case_4\\case_4\\case_4\\MFM.csproj",
+              "RelativeToolTip": "case_4\\MFM.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-24T17:41:33.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\MainForm.cs",
+              "RelativeDocumentMoniker": "case_4\\MainForm.cs",
+              "ToolTip": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "case_4\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:41:22.86Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MFM.cs",
+              "DocumentMoniker": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\MFM.cs",
+              "RelativeDocumentMoniker": "case_4\\MFM.cs",
+              "ToolTip": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\MFM.cs",
+              "RelativeToolTip": "case_4\\MFM.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:23:16.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Recommendation.cs",
+              "DocumentMoniker": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\Classes\\Recommendation.cs",
+              "RelativeDocumentMoniker": "case_4\\Classes\\Recommendation.cs",
+              "ToolTip": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\Classes\\Recommendation.cs",
+              "RelativeToolTip": "case_4\\Classes\\Recommendation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:43:53.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\Classes\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "case_4\\Classes\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\Classes\\DatabaseManager.cs",
+              "RelativeToolTip": "case_4\\Classes\\DatabaseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:43:44.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\MainForm.cs",
+              "RelativeDocumentMoniker": "case_4\\MainForm.cs",
+              "ToolTip": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\MainForm.cs",
+              "RelativeToolTip": "case_4\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:42:17.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\MainForm.cs",
+              "RelativeDocumentMoniker": "case_4\\MainForm.cs",
+              "ToolTip": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\MainForm.cs [Design]",
+              "RelativeToolTip": "case_4\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:42:03.45Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MFM.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\MFM.cs",
+              "RelativeDocumentMoniker": "case_4\\MFM.cs",
+              "ToolTip": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\MFM.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "case_4\\MFM.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:33:07.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\Login.cs",
+              "RelativeDocumentMoniker": "case_4\\Login.cs",
+              "ToolTip": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\Login.cs",
+              "RelativeToolTip": "case_4\\Login.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:22:36.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\Program.cs",
+              "RelativeDocumentMoniker": "case_4\\Program.cs",
+              "ToolTip": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\Program.cs",
+              "RelativeToolTip": "case_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:23:03.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\Login.cs",
+              "RelativeDocumentMoniker": "case_4\\Login.cs",
+              "ToolTip": "C:\\Users\\romas\\Source\\Repos\\case_4\\case_4\\case_4\\Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "case_4\\Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:32:30.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AudioMetadata.cs",
+              "DocumentMoniker": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\Classes\\AudioMetadata.cs",
+              "RelativeDocumentMoniker": "case_4\\Classes\\AudioMetadata.cs",
+              "ToolTip": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\Classes\\AudioMetadata.cs",
+              "RelativeToolTip": "case_4\\Classes\\AudioMetadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:18:23.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "case_4\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\romas\\source\\repos\\case_4\\case_4\\case_4\\MainForm.Designer.cs",
+              "RelativeToolTip": "case_4\\MainForm.Designer.cs",
+              "ViewState": "AgIAAA0BAAAAAAAAAAD4vzgBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:16:16.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
